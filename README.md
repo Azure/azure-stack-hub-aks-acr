@@ -1,14 +1,23 @@
-# Project
+# Azure Kubernetes Service and Azure Container Registry on Azure Stack Hub Feedback repo
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repo is used to track feedback and issues from customers using AKS and ACR in Azure Stack Hub. Please post your questions, issues, use cases, or feature requests in the "Issues" tab above. 
+AKS and ACR on Azure Stack Hub are in Public Preview, support through issues on this repository is provided on a best-effort basis. If you have not done so please review the documentation:
 
-As the maintainer of this project, please make a few updates:
+* AKS on ASH [Tenant documentation](https://aka.ms/aks-ash)
+* AKS on ASH [Operator documentation](https://aka.ms/aks-ash-operator)
+* ACR on ASH [Tenant documentation](https://aka.ms/ash-acr-docs)
+* ACR on ASH [Operator documentation](https://aka.ms/ash-acr-operator-docs)
+* Azure Stack Hub [Release Notes](https://docs.microsoft.com/en-us/azure-stack/operator/release-notes)
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+Please create an [issue](https://github.com/walterov/aks-ash/issues) in this repo if you encounter any of these situations: 
+
+* The documentation did not answer your questions, 
+* You found an issue, 
+* Your scenario is not addressed by the product,
+* You cannot find functionality that you expect,
+* You have general feedback about these services.
+
+If you encounter an issue that is blocking testing of your workloads on either one of these services please contact Microsoft Support.
 
 ## Contributing
 
