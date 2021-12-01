@@ -9,7 +9,7 @@ AKS and ACR on Azure Stack Hub are in Public Preview, support through issues on 
 * ACR on ASH [Operator documentation](https://aka.ms/ash-acr-operator-docs)
 * Azure Stack Hub [Release Notes](https://docs.microsoft.com/en-us/azure-stack/operator/release-notes)
 
-Please create an [issue](https://github.com/walterov/aks-ash/issues) in this repo if you encounter any of these situations: 
+Please create an [issue](https://github.com/Azure/azure-stack-hub-aks-acr/issues) in this repo if you encounter any of these situations: 
 
 * The documentation did not answer your questions, 
 * You found an issue, 
